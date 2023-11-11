@@ -1,9 +1,5 @@
-# News_Recommendationn
-2023 제 5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상
-
 # News_Recommendation_Service
 Consumer-focused news recommendation service through Natural Language Processing
-
 
 ## ✍ 요약
 - 소비자 결제 데이터 분석과 한국어 뉴스 분류 모델을 통해 소비자에게 적합한 뉴스를 추천해준다.
