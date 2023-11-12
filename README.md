@@ -1,4 +1,4 @@
-# News_Recommendation_Service
+# News_Recommendation_CustomerService
 Consumer-focused news recommendation service through Natural Language Processing
 
 ## ✍ 요약
@@ -25,4 +25,4 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 
 ## 🏆 최종결과
-- 제 5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상
+- 제 5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상(한국소비자원장상)
