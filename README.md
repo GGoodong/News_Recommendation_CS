@@ -6,6 +6,9 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 - Streamlit을 활용한 WebPage 구축을 통해 분석 결과의 활용성을 높혔다.
 
+- 한국소비자원의 요청으로 서비스화 실증분석 진행(2023. 11 ~ 2023. 12) | [Kca_EmpiricalAnalysis
+](https://github.com/GGoodong/Kca_EmpiricalAnalysis) 
+
 
 <img src="https://github.com/tgwon/News_Recommendation/assets/102985590/63e26b89-bdf0-4b07-893e-5d866b2dac02"  width="760" height="430">
 
@@ -26,4 +29,4 @@ Consumer-focused news recommendation service through Natural Language Processing
 
 ## 🏆 최종결과
 - 뉴스 분류 정확도 84%
-- 제5회 대구 빅데이터 분석 경진대회 소비자 부문 최우수상(한국소비자원장상)
+- 제5회 대구 빅데이터 분석 경진대회 소비자 부문 **최우수상(한국소비자원장상)**
